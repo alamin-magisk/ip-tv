@@ -2493,7 +2493,9 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 #https://last.gcdn.co/IND415/tracks-v1a1/mono.m3u8
 
-http://103.55.144.46/hls/discovery.m3u8
+#http://103.55.144.46/hls/discovery.m3u8
+
+https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 
 
