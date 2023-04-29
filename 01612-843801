@@ -2466,11 +2466,7 @@ http://103.167.167.5:8111/play/a036/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/KLBorkM.png",Travel XP (Bangla)
 
-#http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-
-#http://live.flixhub.net/hls/travelxp.m3u8
-
-http://103.55.144.46/hls/travelxp.m3u8
+https://cdn2.aliflailabd.com/travel-xp/index.m3u8?token=b74142d76666699265296a7ad5036f9201d7131b-2387bc219d0ab0c159ace982eeeb312f-1682807151-1682803551
 
 
 
