@@ -1257,8 +1257,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/66061
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/l10dPx4.png",Star Jalsha HD
 
-http://50.7.69.66/starjalsha/index.m3u8
-
+http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=d8e9d93f325c43f53279ef857a3778cfdffbc258-ea871f4d5161173c056c8c348678b4eb-1682812274-1682801474
 
 
 
@@ -1267,7 +1266,7 @@ http://50.7.69.66/starjalsha/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN_BANGLA",Zee Bangla HD
 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+https://news-live-cfgroup.zee5.com/out/v1/d8324c0719d94f1da229ccee9489f123/index-connected_5.m3u8
 
 
 
@@ -1331,11 +1330,8 @@ http://103.55.144.46/hls/sunbangla.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/hAmFkQB.jpg",Jalsha Movies HD
 
-http://103.55.144.46/hls/jalshamovies.m3u8
+http://12.1.1.1:8082/Jalshamovies/index.m3u8?token=a1ddb5c099f7839734f2c81f9243d81afd16e85d-8b066fec678015acfada133d0fb7a09f-1682812925-1682802125
 
-#http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=ce56b26920ee4830387c0955a42209fa28b18a86-531d1bb5e7aa5dcc804414081d0d3462-1648667840-1648657040
-
-#http://live.flixhub.net/hls/jalshamovies.m3u8
 
 
 
