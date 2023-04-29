@@ -35,20 +35,21 @@ http://content.discoveryftp.net/Movies/Dubbed/Tamil/2021/Pushpa%20The%20Rise%20P
 
 #EXTINF: -1 tvg-logo="https://imgur.com/gallery/TaYyEDr" group-title="AL-AMIN", Titanic (Bangla)
 
-https://content.discoveryftp.net/Movies/Dubbed/Bangla/Titanic/Titanic%20(1997)%20Bangla%20Dual%20Audio%201280p%20ORG-Bluray%20x265%20AAC%202.1GB%20(Exclusive%20ON-GnBD24.com).mp4
+https://content.ftp.net/Movies/Dubbed/Bangla/Titanic/Titanic%20(1997)%20Bangla%20Dual%20Audio%201280p%20ORG-Bluray%20x265%20AAC%202.1GB%20(Exclusive%20ON-GnBD24.com).mp4
 
 
 
 
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo..png" group-title="AL-AMIN", FanCode
-http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w523202090.m3u8
+
+https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_HD_IDC_BTS/Fallback/index.m3u8
 
 
 
 
 #EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN",SonyLIV
 
-
+https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallback/F22_M1_BengaliHD_DIG_MOB-audio_42836_ben=42800-video=192800.m3u8
 
 
 
@@ -1256,25 +1257,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/66061
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/l10dPx4.png",Star Jalsha HD
 
-http://103.55.144.46/hls/starjalsha.m3u8
-
-#http://live.flixhub.net/hls/starjalsha.m3u8
-
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2857
-
-#https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
-
-#https://last.gcdn.co/IND392/tracks-v1a1/mono.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/323
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/26
-
-#https://last.gcdn.co/IND392/index.m3u8
-
-#http://103.109.56.116/live/skyfeed1003/index.m3u8
-
-#http://208.86.19.21:80/908.stream/index.m3u8
+http://50.7.69.66/starjalsha/index.m3u8
 
 
 
@@ -1284,23 +1267,7 @@ http://103.55.144.46/hls/starjalsha.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN_BANGLA",Zee Bangla HD
 
-http://103.55.144.46/hls/zeebanglahd.m3u8
-
-#http://live.flixhub.net/hls/zeebanglahd.m3u8
-
-#http://103.109.56.116/live/skyfeed1004/index.m3u8
-
-#http://208.86.19.21:80/906.stream/index.m3u8
-
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/77
-
-#https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/209
-
-#https://last.gcdn.co/IND389/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 
 
 
@@ -1310,8 +1277,6 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
-#http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 
 
 
@@ -1332,15 +1297,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
 
 
 
+
+
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg",Colors Bangla HD
 
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
-
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-
-#http://jupiter.bdcabletv.com/ColorsBangla-ENC/video.m3u8
-
-#http://14.199.164.20:4001/play/a0j5/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 
 
@@ -1461,7 +1422,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/309
 
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",Khushbo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
 
@@ -2482,19 +2444,9 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU",Discovery HD (Bangla)
 
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/140
+#https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 
-#https://last.gcdn.co/IND415/index.m3u8
-
-#http://jo123.biz/jweb/m3u8.php?c=DOCUMENTARY_Channel_Bengali&q=800&e=.m3u8
-
-#http://live.flixhub.net/hls/discovery.m3u8
-
-#https://last.gcdn.co/IND415/tracks-v1a1/mono.m3u8
-
-#http://103.55.144.46/hls/discovery.m3u8
-
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
+https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 
 
@@ -2506,15 +2458,7 @@ https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/4duWidg.png",Nat Geo HD (Bangla)
 
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1293
-
-#http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/127
-
-#http://live.flixhub.net/hls/ngohd.m3u8
-
-http://103.55.144.46/hls/ngohd.m3u8
+http://103.167.167.5:8111/play/a036/index.m3u8
 
 
 
