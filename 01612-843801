@@ -4957,13 +4957,7 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/TTL6oj5.png",Cartoon Network
 
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/135
-
-#http://live.flixhub.net/hls/cn.m3u8
-
-#http://103.166.253.222/hls/cn.m3u8
-
-http://103.55.144.46/hls/cn.m3u8
+http://stream.medialink24.net:9191/cartoon-network/index.m3u8?token=976b374bc528fcfa20241396006633286b909376-11e20fd92bab9cc67d21be8406fa92d6-1682848159-1682837359
 
 
 
